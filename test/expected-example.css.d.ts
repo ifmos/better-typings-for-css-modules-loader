@@ -4,3 +4,4 @@ export interface IExampleCss {
 }
 
 export const locals: IExampleCss;
+export default locals;

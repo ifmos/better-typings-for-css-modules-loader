@@ -5,3 +5,4 @@ export interface IExampleCamelcaseCss {
 }
 
 export const locals: IExampleCamelcaseCss;
+export default locals;
